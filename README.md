@@ -1,6 +1,9 @@
-#  Digital Innovation One <img src="C:\Users\paulo\Pictures\baixados.png" style="zoom: 45%;" />
+###  Digital Innovation One <img src="C:\workspace\Git\digital-innovation-one\img\DIO.png" style="zoom: 50%;" />
 
-##  Bootcamp everis New Talents #2 .NET <img src="C:\Users\paulo\Pictures\6457bddb-2a9e-4e89-97e3-79488f66d75d.png" style="zoom: 10%;" />
+[Digital Innovation One](https://digitalinnovation.one)
 
+####  Meus Bootcamps
 
+1. .NET Fundamentals <img src="C:\workspace\Git\digital-innovation-one\img\.net.png" style="zoom:10%;" />
+2. everis New Talents #2 .NET <img src="C:\workspace\Git\digital-innovation-one\img\everis.png" style="zoom:10%;" />
 
